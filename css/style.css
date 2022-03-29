@@ -1,0 +1,28 @@
+.body{
+    color: white;
+}
+.blue{
+    background-color: rgb(0, 43, 0);
+}
+.green{
+    background-color: green;
+}
+ul {
+    color: white;
+    list-style: none;
+}
+.list .li{
+    color: white;
+    display: inline-block;
+}
+.list{
+}
+h1{
+    color: white;
+}
+i{
+    color: white;
+}
+#prova{
+    width: 20%;
+}
