@@ -1,10 +1,15 @@
 html{
    font-size: 100%;
+   
 }
 header{
     height: 80px;
     color: white;
     background-color: green;
+}
+
+footer{
+    color: white;
 }
 ul {
     color: white;
@@ -14,9 +19,7 @@ ul {
     color: white;
     display: inline-block;
 }
-.list{
 
-}
 h1{
     color: white;
 }
@@ -27,12 +30,27 @@ i{
     width: 25%;
 }
 p{
-    font-size: 10px;
+    font-size: 15px;
 }
 #id_jumbotron{
     background-color: aquamarine;
-    height:600px;
+    height:400px;
 }
 .img_avatar{
     width: 25%;
+}
+
+#id_portfolio{
+    max-height: 11000px;
+}
+#id_portfolio img{
+    width: 60%;
+}
+
+#id_copyright{
+    background-color: rgb(46, 43, 43);
+}
+#id_about{
+    color: white;
+    background-color: green;
 }
